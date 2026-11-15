@@ -33,9 +33,21 @@ Gestionale per la gestione digitale dei testi di una libreria, con un'area dedic
 Sito web realizzato per un ristorante reale, oggi online.
 🔗 **[ilconviviotropea.it](https://ilconviviotropea.it)** · (https://github.com/mattia747/site-x-IlConvivio)
 
-### 🎬 NOME_PIATTAFORMA
-Piattaforma di recensioni per film, serie TV e videogiochi, ispirata a Metacritic. Progetto sviluppato interamente da me, full-stack, in **Kotlin**.
-- **[Repository](https://github.com/Willi156/Proj-WA)**
+### 🎬 Critiverse
+Piattaforma di recensioni per **film, serie TV e videogiochi**, ispirata a Metacritic. Progetto universitario 
+
+**Funzionalità principali**
+- 🔍 Catalogo di film, serie TV e giochi, con sezioni per uscite recenti, in arrivo e più votati
+- ⭐ Recensioni e voti degli utenti, con pagina di dettaglio per ogni contenuto
+- 👤 Profilo personale con preferiti e impostazioni
+- 🛠️ Area amministratore per aggiungere, modificare e gestire i contenuti
+- 🎞️ Dati, copertine e trailer presi da API esterne: TMDB, RAWG e YouTube
+
+**Stack tecnologico**
+- **Frontend:** Angular 21 · TypeScript · Server-Side Rendering · Bootstrap · deploy su Firebase Hosting
+- **Backend:** Java · Spring Boot · API REST · JDBC con pattern DAO · PostgreSQL · Spring Security · Spring Mail · deploy su Railway
+
+🔗 **[Repository](https://github.com/Willi156/proj-wa-back-end)**
 
 ## 📫 Contatti
 
